@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	background-color: rgba(0,0,0,0.7);
-	color: rgba(1,1,1,0.7);
+	color: rgba(0,1,0,0.7);
 	font-family: Monospace;
 	font-size: 13px;
 	line-height: 24px;
@@ -67,7 +67,7 @@ a, button, input, select {
 }
 
 	#overlay button {
-		background: rgba(1,1,1,0.7);
+		background: rgba(0,0,0,0.7);
 		border: 0;
 		color: rgba(0,0,0,0.7);
 		padding: 16px 20px;
