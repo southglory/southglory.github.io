@@ -8,14 +8,14 @@ title:  "깃허브 블로그에 이미지를 추가하는 법"
 ### 1. 저장소에 이미지 업로드
 
 1. 이미지 파일을 블로그 저장소에 업로드합니다.
-   - 예: `assets/images/` 폴더에 `example.webp` 파일 추가.
+   - 예: `assets/images/` 폴더에 `example.png` 파일 추가.
 
 2. 업로드한 이미지를 Markdown 문서에서 경로로 참조합니다.
    ```markdown
-   ![EXAMPLE이라는 단어가 대문자로 중앙에 배치된 단순하고 깔끔한 이미지. 흰색 배경에 현대적인 굵은 산세리프 글꼴로 작성되어 있습니다.](assets/images/example.webp)
+   ![EXAMPLE이라는 단어가 대문자로 중앙에 배치된 단순하고 깔끔한 이미지. 흰색 배경에 현대적인 굵은 산세리프 글꼴로 작성되어 있습니다.](assets/images/example.png)
    ```
    
-![EXAMPLE이라는 단어가 대문자로 중앙에 배치된 단순하고 깔끔한 이미지. 흰색 배경에 현대적인 굵은 산세리프 글꼴로 작성되어 있습니다.](assets/images/example.webp)
+![EXAMPLE이라는 단어가 대문자로 중앙에 배치된 단순하고 깔끔한 이미지. 흰색 배경에 현대적인 굵은 산세리프 글꼴로 작성되어 있습니다.](assets/images/example.png)
 
 
 ### 2. GitHub Issues를 활용한 이미지 추가
@@ -36,9 +36,9 @@ title:  "깃허브 블로그에 이미지를 추가하는 법"
 
 예:
 ```markdown
-![골든 리트리버 강아지가 공을 가지고 노는 모습](assets/images/golden_dog_play_ball.webp)
+![골든 리트리버 강아지가 공을 가지고 노는 모습](assets/images/golden_dog_play_ball.png)
 ```
-![골든 리트리버 강아지가 공을 가지고 노는 모습](assets/images/golden_dog_play_ball.webp)
+![골든 리트리버 강아지가 공을 가지고 노는 모습](assets/images/golden_dog_play_ball.png)
 
 ---
 
