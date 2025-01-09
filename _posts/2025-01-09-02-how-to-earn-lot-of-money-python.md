@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Python으로 돈을 많이 벌 수 있는 방"
+title:  "Python으로 돈을 많이 벌 수 있는 방법"
 ---
 
 #### **백엔드에서 Python**
